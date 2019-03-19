@@ -11,4 +11,22 @@
     - CAT
     - Prometheus
     - MapReduce, Spark, HDFS, Hive, DataWarehouse
- 
+
+
+##### TODO PoC(Proof of Concept)
+|TODO | No | Tech | Desc |
+|:---|:---|:-----|:------|
+|✅|1| Prometheus|..|
+|❌|2| Apollo| ..|
+|❌|3| Eureka| ..|
+|❌|4| OAuth2| ..|
+|❌|5| BigData|...|
+|❌|6| Project.Service.|...|
+|❌|7| integrated|...|
+|❌|8| Think..TODO|..|
+|❌|9| opt..|..|
+
+
+
+
+
