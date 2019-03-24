@@ -27,7 +27,8 @@
 |❌|9| opt..|..|
 
 
-
-
-
+> 需要持续深入研究如下技术
+- Docker + k8s
+- Prometheus源码
+- SpringCloud集成
 
