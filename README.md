@@ -20,7 +20,7 @@
 |❌|2| Apollo| ..|
 |❌|3| etcd| ..|
 |❌|4| OAuth2| ..|
-|❌|5| BigData|...|
+|❌|5| BigData,hdfs,mr,spark,spark-streaming|...|
 |❌|6| Project.Service.|...|
 |❌|7| integrated|...|
 |❌|8| Think..TODO|..|
